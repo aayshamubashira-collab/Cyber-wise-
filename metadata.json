@@ -1,0 +1,6 @@
+{
+  "name": "CyberWise Skillversity",
+  "description": "Modern educational institute in Perinthalmanna, Kerala bridging the gap between academic learning and industry-ready careers with UGC degree pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
